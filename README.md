@@ -12,6 +12,4 @@ Note: There are many projects on my GitHub but the same is not yet available in 
 I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
 
 ## Get in touch
-- Linkedin: https://in.linkedin.com/in/rameshbabuprudhvi
-- Twitter: https://twitter.com/amrameshbabu
-- Personal blog: http://techyworks.blogspot.com/
+[Twitter](https://twitter.com/amrameshbabu) | [LinkedIn](https://in.linkedin.com/in/rameshbabuprudhvi) | [Blog](http://techyworks.blogspot.com)
