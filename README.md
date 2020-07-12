@@ -12,7 +12,6 @@ Note: There are many projects on my GitHub but the same is not yet available in 
 I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
 
 ## Get in touch
-[Twitter](https://twitter.com/amrameshbabu) | [LinkedIn](https://in.linkedin.com/in/rameshbabuprudhvi) | [Blog](http://techyworks.blogspot.com)
 <p align="center">
 	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
