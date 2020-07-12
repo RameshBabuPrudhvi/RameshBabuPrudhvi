@@ -13,3 +13,8 @@ I am open to feedback, so you are welcome to use any of my projects and share yo
 
 ## Get in touch
 [Twitter](https://twitter.com/amrameshbabu) | [LinkedIn](https://in.linkedin.com/in/rameshbabuprudhvi) | [Blog](http://techyworks.blogspot.com)
+<p align="center">
+	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/rameshbabu"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
