@@ -13,7 +13,7 @@ I am open to feedback, so you are welcome to use any of my projects and share yo
 
 [![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameshbabuprudhvi&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true)](https://github.com/rameshbabuprudhvi)
 
-[![Top Ramesh's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbabuprudhvi&theme=prussian&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=8)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
+[![Top Ramesh's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbabuprudhvi&hide=javascript,html,css,scss&theme=prussian&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=4)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
 
 ## Get in touch
 <p align="center">
