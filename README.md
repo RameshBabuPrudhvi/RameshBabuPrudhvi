@@ -11,9 +11,14 @@ Note: There are many projects on my GitHub but the same is not yet available in 
 
 I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
 
+[![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameshbabuprudhvi&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true)](https://github.com/rameshbabuprudhvi)
+
+[![Top Ramesh's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbabuprudhvi&theme=prussian&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=8)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
+
 ## Get in touch
 <p align="center">
 	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://in.linkedin.com/in/rameshbabuprudhvi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
