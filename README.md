@@ -11,7 +11,7 @@ Note: There are many projects on my GitHub but the same is not yet available in 
 
 I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
 
-[![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameshbabuprudhvi&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true)](https://github.com/rameshbabuprudhvi)
+[![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameshbabuprudhvi&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&hide_border=true)](https://github.com/rameshbabuprudhvi)
 
 [![Top Ramesh's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbabuprudhvi&hide=html,css,scss&theme=prussian&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=8)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
 
