@@ -7,8 +7,6 @@ Being lazy by nature, I tend to automate everything which I need to do manually.
 ## My work
 There are many libraries and test frameworks which I have created and open sourced, same you can also use in any of your projects with minimal on-boarding time. All my works, with it’s documentation can be found in projects section. Feel free to check it out.
 
-Note: There are many projects on my GitHub but the same is not yet available in the projects section. I am working on adding documentations for all of them, which I will publish as soon as it is ready.
-
 I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
 
 ![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshbabuprudhvi&count_private=true&show_icons=true)
