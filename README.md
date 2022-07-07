@@ -19,3 +19,5 @@ I am open to feedback, so you are welcome to use any of my projects and share yo
 	<a href="https://in.linkedin.com/in/rameshbabuprudhvi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/rameshbabuprudhvi)
+
