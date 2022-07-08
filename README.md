@@ -17,6 +17,8 @@ I am open to feedback, so you are welcome to use any of my projects and share yo
 	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://in.linkedin.com/in/rameshbabuprudhvi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://facebook.com/rameshbabuprudhvi"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
+	
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/rameshbabuprudhvi)
