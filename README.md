@@ -21,5 +21,3 @@ I am open to feedback, so you are welcome to use any of my projects and share yo
 	
 </p>
 
-![Profile views](https://gpvc.arturio.dev/rameshbabuprudhvi)
-
