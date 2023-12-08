@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ramesh Babu - Automation Architect in [Computer Enterprises, Inc.](https://www.ceiamerica.com/) and also an active open source contributor on GitHub.
+I'm Ramesh Babu - Automation Architect in [Altimetrik](https://www.altimetrik.com/) and also an active open source contributor on GitHub.
 
 
 Being lazy by nature, I tend to automate everything which I need to do manually. This thinking keeps me motivated to learn new testing tools, new technologies and best practices. I keep challenging myself to push my limits and move out of my comfort zone and upgrade my skills. And also I like mentoring people who are as eager to learn as I am.
