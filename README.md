@@ -1,20 +1,43 @@
 ### Hi there 👋
 
-I'm Ramesh Babu - Automation Architect in [Altimetrik](https://www.altimetrik.com/) and also an active open source contributor on GitHub.
+I'm Ramesh Babu - Quality Engineering Architect specializing in enterprise QE transformation, automation modernization, and scalable test architecture across global delivery environments.
 
+I focus on building reusable automation platforms, driving DevOps-integrated quality practices, and enabling organizations to transition from traditional QA to engineering-driven quality ecosystems.
 
-Being lazy by nature, I tend to automate everything which I need to do manually. This thinking keeps me motivated to learn new testing tools, new technologies and best practices. I keep challenging myself to push my limits and move out of my comfort zone and upgrade my skills. And also I like mentoring people who are as eager to learn as I am.
+## What I Do
+* Design enterprise-grade automation frameworks
+* Conduct QE maturity assessments and transformation roadmaps
+* Standardize automation practices across distributed teams
+* Integrate quality gates into CI/CD pipelines
+* Mentor SDET engineers and promote engineering excellence
 
-## My contributions
+## Open Source Contributions
 ![Snake animation](https://github.com/RameshBabuPrudhvi/RameshBabuPrudhvi/blob/snake/github-contribution-grid-snake.svg)
 
-There are many libraries and test frameworks which I have created and open sourced, same you can also use in any of your projects with minimal on-boarding time. All my works, with it’s documentation can be found in projects section. Feel free to check it out.
+I actively build and maintain automation frameworks and reusable testing libraries to simplify enterprise automation adoption.
 
-I am open to feedback, so you are welcome to use any of my projects and share your feedback on how good it was or how it can be improved.
+### My work focuses on:
+* Scalable UI & API automation architecture
+* BDD-driven framework design
+* CI/CD execution enablement
+* Cross-platform test reusability
+
+All repositories include structured documentation to support quick onboarding and real-world implementation.
 
 [![Ramesh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rameshbabuprudhvi&date_format=j%20M%5B%20Y%5D)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
 
+## Philosophy
+Quality is not just testing — it is engineering discipline, governance, and business risk management.
+
+I believe in:
+
+* Automation with maintainability
+* Data-driven quality decisions
+* DevOps-integrated continuous testing
+* Building teams that think like engineers
+  
 ## Get in touch
+Open to collaboration on enterprise-grade automation initiatives
 <p>
 	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
