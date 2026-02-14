@@ -1,48 +1,44 @@
-### Hi there 👋
+# Hi, I’m Ramesh 👋
 
-I'm Ramesh Babu - Quality Engineering Architect specializing in enterprise QE transformation, automation modernization, and scalable test architecture across global delivery environments.
+I am a Quality Engineering Architect specializing in enterprise Quality Engineering transformation, automation modernization, and scalable test strategy alignment across global delivery environments.
 
-I focus on building reusable automation platforms, driving DevOps-integrated quality practices, and enabling organizations to transition from traditional QA to engineering-driven quality ecosystems.
+My focus is on designing reusable automation platforms, enabling DevOps-integrated quality practices, and helping organizations transition from traditional testing to engineering-driven quality ecosystems.
+
+My work has enabled teams to improve release predictability, scale automation adoption, and strengthen quality governance across distributed engineering environments.
 
 ## What I Do
-* Design enterprise-grade automation frameworks
-* Conduct QE maturity assessments and transformation roadmaps
-* Standardize automation practices across distributed teams
-* Integrate quality gates into CI/CD pipelines
-* Mentor SDET engineers and promote engineering excellence
+
+🔹 Lead enterprise QE maturity assessments and define transformation roadmaps aligned with business objectives  
+🔹 Design automation architecture and governance frameworks  
+🔹 Enable DevOps-centric CI/CD quality pipelines  
+🔹 Mentor and coach QA/SDET teams on engineering best practices  
+🔹 Evaluate tooling ecosystems and optimize automation strategy for long-term maintainability  
 
 ## Open Source Contributions
-![Snake animation](https://github.com/RameshBabuPrudhvi/RameshBabuPrudhvi/blob/snake/github-contribution-grid-snake.svg)
 
-I actively build and maintain automation frameworks and reusable testing libraries to simplify enterprise automation adoption.
+I build and maintain automation frameworks and testing libraries that help teams adopt scalable automation with minimal onboarding.
 
-### My work focuses on:
-* Scalable UI & API automation architecture
-* BDD-driven framework design
-* CI/CD execution enablement
-* Cross-platform test reusability
+Highlighted repositories include:
 
-All repositories include structured documentation to support quick onboarding and real-world implementation.
+- Enterprise-ready UI & API automation frameworks  
+- CI/CD integration examples for quality gates  
+- Reusable test libraries with structured documentation  
 
-[![Ramesh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rameshbabuprudhvi&date_format=j%20M%5B%20Y%5D)](https://github.com/rameshbabuprudhvi?tab=repositories&q=&type=public)
+Each project is designed for real-world enterprise adoption.
 
 ## Philosophy
-Quality is not just testing — it is engineering discipline, governance, and business risk management.
 
-I believe in:
+Quality is not just testing — it is engineering discipline, governance, and proactive risk management that enables reliable and predictable software delivery.
 
-* Automation with maintainability
-* Data-driven quality decisions
-* DevOps-integrated continuous testing
-* Building teams that think like engineers
-  
+My approach emphasizes:
+
+✔ Maintainable automation architecture  
+✔ Data-driven quality decisions  
+✔ Engineering ownership of quality  
+✔ Continuous improvement culture  
+
 ## Get in touch
-Open to collaboration on enterprise-grade automation initiatives
-<p>
-	<a href="https://github.com/rameshbabuprudhvi"><img src="https://img.shields.io/github/followers/rameshbabuprudhvi.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/amrameshbabu"><img src="https://img.shields.io/twitter/follow/amrameshbabu?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://in.linkedin.com/in/rameshbabuprudhvi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://facebook.com/rameshbabu.prudhvi"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
-	
-</p>
 
+Open to collaboration on enterprise-grade automation initiatives.
+
+🔗 LinkedIn: https://in.linkedin.com/in/rameshbabuprudhvi
